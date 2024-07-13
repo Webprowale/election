@@ -23,16 +23,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto text-white">
                     <li class="nav-item">
-                        <a class="nav-link text-white fw-semibold" aria-current="page" href="../">Home</a>
+                        <a class="nav-link text-white fw-semibold" aria-current="page" href="./">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white fw-semibold" href="./Officer">Officer</a>
+                        <a class="nav-link text-white fw-semibold" href="./officer">Officer</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white fw-semibold" href="./Admin">Admin</a>
                     </li>
                 </ul>
-               <button class="btn  bg-white max-w-full" style="border-top: 4px solid #ffcd1b;" onclick="window.location.href='../voter';">Get Started</button>
+               <button class="btn  bg-white max-w-full" style="border-top: 4px solid #ffcd1b;" onclick="window.location.href='./voter';">Get Started</button>
             </div>
         </div>
     </nav>
